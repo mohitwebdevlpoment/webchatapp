@@ -1,7 +1,7 @@
 body{
     /* https://www.color-hex.com/color/d3d3d3 */
     background-color: #fff; /*#f6f6f6, EBEBD3, fafafa*/
-    font-family: Bungee Outline;
+    font-family: 'DynaPuff', cursive;
     font-weight: 900;
   
     overflow: hidden;
@@ -23,7 +23,7 @@ body{
     justify-content: center;
     align-items: center;
   
-    background-color: #D64045;/*#467599;*/
+    background-color: rgb(0, 128, 124);/*#467599;*/
     border-bottom: 5px solid #fff;
     box-shadow: 0 0 30px -18px #D64045;
   
